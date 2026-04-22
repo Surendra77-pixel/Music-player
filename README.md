@@ -9,7 +9,7 @@
 
 A lightweight, browser-based music player with a clean UI, smooth album art transitions, and full playback controls — no build tools or dependencies required.
 
-[View Demo](#) · [Report Bug](https://github.com/Surendra77-pixel/Music-player/issues) · [Request Feature](https://github.com/Surendra77-pixel/Music-player/issues)
+[View Demo](https://surendra77-pixel.github.io/Music-player) · [Report Bug](https://github.com/Surendra77-pixel/Music-player/issues) · [Request Feature](https://github.com/Surendra77-pixel/Music-player/issues)
 
 </div>
 
